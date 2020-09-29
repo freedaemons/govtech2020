@@ -1,1 +1,2 @@
-FROM postgres:9.4
+FROM library/postgres
+COPY init.sql /docker-entrypoint-initdb.d/
