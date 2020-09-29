@@ -13,3 +13,4 @@ Find within 3 folders for each of the test's sections:
 	- Dockerfile
 3. System Design
 	- Architecture diagram
+	- Short explanation document
